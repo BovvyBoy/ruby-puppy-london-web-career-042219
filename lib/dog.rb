@@ -7,6 +7,7 @@ class Dog
     @@all = []
   end
   
+=begin
   def clear_all(dog)
     @@all.clear
   end
@@ -19,3 +20,4 @@ class Dog
     dog << @@all
   end
 end
+=end
