@@ -3,7 +3,7 @@ class Dog
     @@all = []
   end
   
-  def clear_all
-    @@all.clear_all
+  def clear_all(dog)
+    @@all.clear
   end
 end
