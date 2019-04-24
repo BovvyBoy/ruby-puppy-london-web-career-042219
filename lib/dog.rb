@@ -1,9 +1,10 @@
 class Dog
   @@all = []
   
-  #def initialize(dog)
- #   @@all = []
- # end
+=begin
+def initialize(dog)
+  @@all = []
+ end
   
   def clear_all(dog)
     @@all.clear
@@ -17,3 +18,4 @@ class Dog
     dog << @@all
   end
 end
+=end
