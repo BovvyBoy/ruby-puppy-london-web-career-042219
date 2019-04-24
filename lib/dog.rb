@@ -1,5 +1,5 @@
 class Dog
-  def initialize
+  def initialize(dog)
     @@all = []
   end
 end
