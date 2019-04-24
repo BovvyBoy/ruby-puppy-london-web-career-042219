@@ -3,6 +3,6 @@ class Dog
     @@all = []
   end
   def clear_all
-    @@all.clear
+    Dog.clear
   end
 end
