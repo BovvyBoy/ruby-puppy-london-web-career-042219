@@ -17,5 +17,5 @@ def initialize(dog)
   def new(dog)
     dog << @@all
   end
-end
 =end
+end
