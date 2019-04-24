@@ -10,4 +10,8 @@ class Dog
   def all
     puts @@all
   end
+  
+  def new(dog)
+    dog << @@all
+  end
 end
